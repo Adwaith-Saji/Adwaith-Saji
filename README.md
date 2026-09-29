@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Adwaith 👋
 
-<!--
-**Adwaith-Saji/Adwaith-Saji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student
+💻 Interested in Software Development & AI & ML
+🌱 Currently learning DSA and Web Development
 
-Here are some ideas to get you started:
+## 🛠️ Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C • Python • Java • HTML • CSS • JavaScript
+
+## 🔧 Technologies
+
+• PostgreSQL • Git • GitHub • Bootstrap • Node.js
+## 🚀 Projects
+
+* 🚗 **LEVIOSA** — Smart Parking System
+* 🎓 **MACE Event Portal**
+* 🤖 **AI Question Paper Generator**
+
+Currently building projects and improving my DSA skills.
