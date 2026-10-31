@@ -2,7 +2,6 @@
 
 🎓 CSE Student
 💻 Interested in Software Development & AI & ML
-🌱 Currently learning DSA and Web Development
 
 ## 🛠️ Languages
 
